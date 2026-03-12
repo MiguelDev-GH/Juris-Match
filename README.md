@@ -8,11 +8,18 @@ Aplicação para a conexão entre usuários que procuram suas respostas referent
 
 ## Funções:
 
+### Po
+
+### Scrum Master
 - **Miguel** - (A definir)
-- **João Victor** - (A definir)
-- **João Manuel** - (A definir)
+
+### Time de desenvolvimento
+- **João Victor**
+- **João Manoel**
+- **Isabela**
+
+### Outros ou não definido
 - **João Pedro** - (A definir)
-- **Isabela** - (A definir)
 - **Rafael** - (A definir)
 - **Pedro** - (A definir)
 
